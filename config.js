@@ -54,9 +54,9 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 
 /*============== NOMOR ==============*/
 global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorown = 18173845317' //18173845317
+global.namebot = 'Ale-bot/Kratos' //Ale-bot/Kratos
+global.nameown = 'Ale-bot' // Ale-bot
 
 
 /*============== CHATGPT ==============*/
@@ -68,7 +68,7 @@ global.owner = [
   ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
   ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // 18173845317
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
@@ -182,8 +182,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ale-bot'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋʀᴀᴛᴏs'
 
 global.multiplier = 38 // The higher, The harder levelup
 
